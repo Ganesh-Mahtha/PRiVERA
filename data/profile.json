@@ -1,0 +1,12 @@
+[
+  {"id":"P01","content":"The user has programming skills in Python and Java.","category":"skills","sensitivity":"low"},
+  {"id":"P02","content":"The user has experience with machine learning and TensorFlow.","category":"skills","sensitivity":"low"},
+  {"id":"P03","content":"The user built a house-price prediction machine learning project.","category":"projects","sensitivity":"low"},
+  {"id":"P04","content":"The user completed an internship in data analysis at a fictional company.","category":"experience","sensitivity":"medium"},
+  {"id":"P05","content":"The user studies Computer Science at a fictional university.","category":"education","sensitivity":"medium"},
+  {"id":"P06","content":"The user's fictional CGPA is 8.7.","category":"academic_performance","sensitivity":"medium"},
+  {"id":"P07","content":"The user's fictional phone number is 9000000000.","category":"contact","sensitivity":"high"},
+  {"id":"P08","content":"The user's fictional email is demo.user@example.com.","category":"contact","sensitivity":"high"},
+  {"id":"P09","content":"The user lives in a fictional profile location: Delhi.","category":"location","sensitivity":"medium"},
+  {"id":"P10","content":"The user completed a Python programming certificate.","category":"certifications","sensitivity":"low"}
+]
